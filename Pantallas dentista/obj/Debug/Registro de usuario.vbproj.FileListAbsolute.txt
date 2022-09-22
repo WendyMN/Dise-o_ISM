@@ -1,0 +1,19 @@
+C:\Users\acer\Desktop\Ago-Dic\Desntista\Registro de usuario\Registro de usuario\bin\Debug\Registro de usuario.exe.config
+C:\Users\acer\Desktop\Ago-Dic\Desntista\Registro de usuario\Registro de usuario\bin\Debug\Registro de usuario.exe
+C:\Users\acer\Desktop\Ago-Dic\Desntista\Registro de usuario\Registro de usuario\bin\Debug\Registro de usuario.pdb
+C:\Users\acer\Desktop\Ago-Dic\Desntista\Registro de usuario\Registro de usuario\bin\Debug\Registro de usuario.xml
+C:\Users\acer\Desktop\Ago-Dic\Desntista\Registro de usuario\Registro de usuario\obj\Debug\Registro de usuario.vbprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Ago-Dic\Desntista\Registro de usuario\Registro de usuario\obj\Debug\Registro_de_usuario.Resources.resources
+C:\Users\acer\Desktop\Ago-Dic\Desntista\Registro de usuario\Registro de usuario\obj\Debug\Registro_de_usuario.Form1.resources
+C:\Users\acer\Desktop\Ago-Dic\Desntista\Registro de usuario\Registro de usuario\obj\Debug\Registro de usuario.vbproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Ago-Dic\Desntista\Registro de usuario\Registro de usuario\obj\Debug\Registro de usuario.exe
+C:\Users\acer\Desktop\Ago-Dic\Desntista\Registro de usuario\Registro de usuario\obj\Debug\Registro de usuario.xml
+C:\Users\acer\Desktop\Ago-Dic\Desntista\Registro de usuario\Registro de usuario\obj\Debug\Registro de usuario.pdb
+C:\Users\acer\Desktop\Ago-Dic\Desntista\Registro de usuario\Registro de usuario\obj\Debug\Registro_de_usuario.Agendar_cita.resources
+C:\Users\acer\Desktop\Ago-Dic\Desntista\Registro de usuario\Registro de usuario\obj\Debug\Registro_de_usuario.Inicio_de_sesión.resources
+C:\Users\acer\Desktop\Ago-Dic\Desntista\Registro de usuario\Registro de usuario\obj\Debug\Registro_de_usuario.Menú.resources
+C:\Users\acer\Desktop\Ago-Dic\Desntista\Registro de usuario\Registro de usuario\obj\Debug\Registro_de_usuario.Registrar_paciente.resources
+C:\Users\acer\Desktop\Ago-Dic\Desntista\Diseño de pantallas eq5\Pantallas dentista\bin\Debug\Registro de usuario.exe.config
+C:\Users\acer\Desktop\Ago-Dic\Desntista\Diseño de pantallas eq5\Pantallas dentista\obj\Debug\Registro de usuario.exe
+C:\Users\acer\Desktop\Ago-Dic\Desntista\Diseño de pantallas eq5\Pantallas dentista\obj\Debug\Registro de usuario.xml
+C:\Users\acer\Desktop\Ago-Dic\Desntista\Diseño de pantallas eq5\Pantallas dentista\obj\Debug\Registro de usuario.pdb
